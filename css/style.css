@@ -1,0 +1,24 @@
+h1{
+    background-color: #fff;
+    color: #333;
+    width:300px;
+    height: 300px;
+    border-radius:5pX ;
+    -webkit-border-radius:5pX ;
+    -moz-border-radius:5pX ;
+    -ms-border-radius:5pX ;
+    -o-border-radius:5pX ;
+    padding: 20px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2{
+    background-color: #333;
+    color:mediumvioletred;
+    margin-top: 30px;
+    padding:10px;
+    border-radius: 2px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -ms-border-radius: 2px;
+    -o-border-radius: 2px;
+}
